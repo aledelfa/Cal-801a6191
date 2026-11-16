@@ -1,0 +1,487 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tripulse//ITTF Warsaw 2026//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tripulse · ITTF Warsaw 2026
+X-WR-TIMEZONE:Europe/Warsaw
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/Warsaw
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ittf2026-giorno1@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:ITTF Warsaw 2026 · giorno 1
+LOCATION:Pałac Kultury i Nauki (PKiN)\, plac Defilad 1\, Warszawa
+DESCRIPTION:Fiera ITTF Warsaw. Agenda e clienti: ittf-warsaw-2026-crm.xlsx
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-giorno2@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:ITTF Warsaw 2026 · giorno 2
+LOCATION:Pałac Kultury i Nauki (PKiN)\, plac Defilad 1\, Warszawa
+DESCRIPTION:Fiera ITTF Warsaw. Agenda e clienti: ittf-warsaw-2026-crm.xlsx
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-giorno3@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:ITTF Warsaw 2026 · giorno 3
+LOCATION:Pałac Kultury i Nauki (PKiN)\, plac Defilad 1\, Warszawa
+DESCRIPTION:Fiera ITTF Warsaw. Agenda e clienti: ittf-warsaw-2026-crm.xlsx
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A001@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T113000
+DTEND;TZID=Europe/Warsaw:20261120T120000
+SUMMARY:Tripulse × ŁÓDŹ TOURISM ORGANIZATION (Julia Lessman)
+LOCATION:Stand 42 · sala Ratuszowa · livello 1 · PKiN
+DESCRIPTION:Cliente: C044 · ŁÓDŹ TOURISM ORGANIZATION\nReferente: Juli
+ a Lessman\nTipo: in fiera\nObiettivo: Presentare Tripulse\, proporre check
+ -up AI gratuito di Łódź\, capire chi decide e fissare un passo successi
+ vo (call o check-up).\nDa portare: Check-up DMO EN\, guida completa EN (PD
+ F)\, biglietti da visita\, telefono con app/mockup\nOrigine: Mail di Julia
+  Lessman\, risposta del 10/11\nNote: Orario proposto da Alessandro\, confe
+ rmato. Durata stimata 30 min.\nScheda: schede-clienti/C044-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × ŁÓDŹ TOURISM ORGANIZATION (Julia Lessman)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A002@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T123000
+DTEND;TZID=Europe/Warsaw:20261119T130000
+SUMMARY:Tripulse × VARNA MUNICIPALITY (Stanislava Marinova)
+LOCATION:Stand 22-23 (Bulgaria) · sala Marmurowa · livello 1 · PKiN
+DESCRIPTION:Cliente: C045 · VARNA MUNICIPALITY\nReferente: Stanislava Mar
+ inova\nTipo: in fiera\nObiettivo: Presentare Tripulse\, proporre check-up 
+ AI gratuito di Varna\, esplorare "iniziative congiunte"\, capire chi decid
+ e e fissare il passo successivo.\nDa portare: Check-up DMO EN\, guida comp
+ leta EN (PDF)\, biglietti da visita\, telefono con app/mockup\nOrigine: Ma
+ il di Stanislava Marinova\, risposta del 10/11\nNote: Orario proposto da A
+ lessandro\, confermato da Stanislava. Durata stimata 30 min.\nScheda: sche
+ de-clienti/C045-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × VARNA MUNICIPALITY (Stanislava Marinova)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A003@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T153000
+DTEND;TZID=Europe/Warsaw:20261119T160000
+SUMMARY:Tripulse × ELSOLE TOURS (Beata Chavez Mydlowska)
+LOCATION:Stand 33 · sala Trojki · livello 1 · PKiN
+DESCRIPTION:Cliente: C046 · ELSOLE TOURS\nReferente: Beata Chavez Mydlows
+ ka\nTipo: in fiera\nObiettivo: Capire come vende le escursioni (canali\, l
+ ingue\, piattaforme)\, proporre di inserire le sue esperienze in Tripulse 
+ e il ruolo Ambassador\, offrire il check-up AI dei suoi siti.\nDa portare:
+  Guida completa (cap. tour operator)\, check-up visibilità AI aziende\, b
+ iglietti da visita\, telefono con app/mockup\nOrigine: Mail di Beata Chave
+ z Mydlowska\, risposta del 10/11\nNote: Lei ha chiesto il pomeriggio\; Ale
+ ssandro propone 19/11 ore 15:30\, confermato. Incontro in italiano.\nSched
+ a: schede-clienti/C046-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × ELSOLE TOURS (Beata Chavez Mydlowska)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A004@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T113000
+DTEND;TZID=Europe/Warsaw:20261119T115000
+SUMMARY:[da confermare] Tripulse × LUCEA DMC
+LOCATION:Stand 23 (Montenegro) · sala Starzyńskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C047 · LUCEA DMC\nTipo: in fiera\nObiettivo: Incontr
+ o breve: ribaltare il "non è una priorità" mostrando Tripulse come canal
+ e B2B e rete di partner\; uscire con un contatto nominativo.\nDa portare: 
+ Guida completa EN (cap. tour operator)\, check-up visibilità AI aziende E
+ N\, biglietti da visita\nOrigine: Mail LUCEA DMC Team\, risposta del 10/11
+ \nNote: Proposto da Alessandro il 10/11\, in attesa di conferma. Durata 20
+  min ("quick meeting").\nScheda: schede-clienti/C047-*.md
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:[da confermare] Tripulse × LUCEA DMC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A005@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T143000
+DTEND;TZID=Europe/Warsaw:20261119T150000
+SUMMARY:[da confermare] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
+LOCATION:Stand 2 · Main Hall · livello 1 · PKiN
+DESCRIPTION:Cliente: C020 · NOWA TURYSTYKA\nReferente: Mira Włodarczyk\n
+ Tipo: in fiera\nObiettivo: Trasformare la proposta di pubblicità in media
+  partnership: livello 2 del programma (rete + Ambassador)\, pilota 90 gior
+ ni\; ottenere media kit e numeri di audience.\nDa portare: Programma media
+  partner (PDF)\, guida completa EN\, biglietti da visita\nOrigine: Mail di
+  Mira Włodarczyk\, risposta del 10/11\nNote: Proposto da Alessandro\, non
+  ancora confermato.\nScheda: schede-clienti/C020-*.md
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:[da confermare] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A006@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T130000
+DTEND;TZID=Europe/Warsaw:20261119T133000
+SUMMARY:Tripulse × HOTEL PRINCESS (Bar) (Ljiljana Lukšić)
+LOCATION:Stand 23 (Montenegro) · sala Starzyńskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C049 · HOTEL PRINCESS (Bar)\nReferente: Ljiljana Luk
+ šić\nTipo: in fiera\nObiettivo: Presentare triPARTNER per hotel\, offrir
+ e check-up AI dell'hotel\, farsi presentare all'ente turistico di Bar allo
+  stesso stand.\nDa portare: Guida completa EN\, check-up visibilità AI az
+ iende EN\, biglietti da visita\, telefono con app/mockup\nOrigine: Mail di
+  Ljiljana Lukšić\, risposta del 10/11\nNote: Orario proposto da lei\, co
+ nfermato da Alessandro. In caso di ritardo: +382 69 377 545. Arriva da Var
+ na (livello 1) che finisce alle 13:00.\nScheda: schede-clienti/C049-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × HOTEL PRINCESS (Bar) (Ljiljana Lukšić)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A007@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T120000
+DTEND;TZID=Europe/Warsaw:20261119T122000
+SUMMARY:Tripulse × SEVE TRAVEL OOD (Veselin Petrov · Swetlana Wojcik)
+LOCATION:Stand 22-23 (Bulgaria) · sala Marmurowa · livello 1 · PKiN
+DESCRIPTION:Cliente: C050 · SEVE TRAVEL OOD\nReferente: Veselin Petrov ·
+  Swetlana Wojcik\nTipo: in fiera\nObiettivo: Presentare Tripulse\, capire 
+ servizi e clienti polacchi\, proporre partner esperienze e ruolo Ambassado
+ r\; poi presentarsi al Comune di Varna (12:30) con un operatore locale gi
+ à agganciato.\nDa portare: Guida completa EN (cap. tour operator)\, bigli
+ etti da visita\, telefono con app/mockup\nOrigine: Mail di Veselin Petrov 
+ del 10/11 + proposta di Alessandro\nNote: Confermato da Alessandro il 10/1
+ 1. Subito dopo: Varna allo stesso stand.\nScheda: schede-clienti/C050-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × SEVE TRAVEL OOD (Veselin Petrov · Swetlana Wojcik
+ )
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A008@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T110000
+DTEND;TZID=Europe/Warsaw:20261120T112500
+SUMMARY:Tripulse × TURISTIČKA ORGANIZACIJA KOLAŠIN (Ivana Bulatović)
+LOCATION:Stand 23 (Montenegro) · sala Starzyńskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C051 · TURISTIČKA ORGANIZACIJA KOLAŠIN\nReferente:
+  Ivana Bulatović\nTipo: in fiera\nObiettivo: Presentare Tripulse\, propor
+ re il check-up AI gratuito di Kolašin\, puntare sull'outdoor\, capire chi
+  decide e fissare il passo successivo.\nDa portare: Check-up DMO EN\, guid
+ a completa EN (PDF)\, biglietti da visita\, telefono con app/mockup (sezio
+ ne Outdoor)\nOrigine: Mail di Ivana Bulatović del 10/11\nNote: Proposto d
+ a loro\, accettato da Alessandro il 10/11.\nScheda: schede-clienti/C051-*.
+ md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × TURISTIČKA ORGANIZACIJA KOLAŠIN (Ivana Bulatovi
+ ć)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A009@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T103000
+DTEND;TZID=Europe/Warsaw:20261119T110000
+SUMMARY:Tripulse × ABSOLUTE GUIDES DMC (Alexandru Ganușceac)
+LOCATION:Stand 4 ALL INCLUSIVE (nostro partner) · sala Broniewskiego · l
+ ivello 2 · PKiN
+DESCRIPTION:Cliente: C052 · ABSOLUTE GUIDES DMC\nReferente: Alexandru Gan
+ ușceac\nTipo: in fiera\nObiettivo: Conoscersi grazie alla presentazione d
+ i Viola (All Inclusive)\, capire che gruppi portano in Romania e da quali 
+ mercati\, proporre il ruolo di partner/Ambassador e il check-up visibilit
+ à AI aziende gratuito.\nDa portare: Check-up visibilità AI aziende EN\, 
+ guida completa EN (PDF)\, biglietti da visita\, telefono con app\nOrigine:
+  Mail di Alexandru Ganușceac del 10/11 (contatto di Viola\, All Inclusive
+ )\nNote: Confermato da Alessandro il 10/11. L'incontro si tiene allo stand
+  di All Inclusive (partner)\, dove Alessandro starà quando non ha appunta
+ menti. Absolute Guides ha anche un proprio stand 34 Trojki liv. 1.\nScheda
+ : schede-clienti/C052-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × ABSOLUTE GUIDES DMC (Alexandru Ganușceac)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A010@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T133000
+DTEND;TZID=Europe/Warsaw:20261120T135500
+SUMMARY:[da confermare] Tripulse × REGION OF CRETE (Smaro Dadinidou)
+LOCATION:Stand 10-12 (Grecia) · sala Mikołajskiej · livello 1 · PKiN
+DESCRIPTION:Cliente: C053 · REGION OF CRETE\nReferente: Smaro Dadinidou\n
+ Tipo: in fiera\nObiettivo: Presentare Tripulse\, proporre il check-up visi
+ bilità AI gratuito di Creta\, capire chi decide e fissare il passo succes
+ sivo.\nDa portare: Brochure A010\, check-up DMO EN\, guida completa EN (PD
+ F)\, biglietti da visita\, telefono con app/mockup\nOrigine: Mail di Smaro
+  Dadinidou (Regional Unit of Chania)\, 12/11\nNote: Smaro ha proposto 4 sl
+ ot\; Alessandro sceglie ven 20/11 13:30 (bozza mail/C053-region-of-crete-r
+ isposta-en.txt\, Kotsoglou in copia). In attesa della conferma di Smaro. C
+ hiudere alle 13:55: alle 14:00 Montenegro Adventure allo stand 23 (livello
+  2).\nScheda: schede-clienti/C053-*.md
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:[da confermare] Tripulse × REGION OF CRETE (Smaro Dadinidou)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A011@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T103000
+DTEND;TZID=Europe/Warsaw:20261120T105500
+SUMMARY:Tripulse × HOTEL GROUP BUDVANSKA RIVIJERA (Gordana Andrijasevic)
+LOCATION:Stand 23 (Montenegro) · sala Starzyńskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C054 · HOTEL GROUP BUDVANSKA RIVIJERA\nReferente: Go
+ rdana Andrijasevic\nTipo: in fiera\nObiettivo: Presentare triPARTNER per g
+ li hotel del gruppo a Budva e la promo fiera\, offrire il check-up visibil
+ ità AI dei loro siti\, capire quanti hotel e chi decide\, farsi presentar
+ e all'ente turistico di Budva allo stesso stand.\nDa portare: Brochure A01
+ 1\, guida completa EN\, check-up visibilità AI aziende EN\, biglietti da 
+ visita\, telefono con app/mockup\nOrigine: Mail di Gordana Andrijasevic (S
+ ales department)\, 12/11\nNote: Avevano proposto le 11:00\, già occupate 
+ da Kolašin\; Alessandro ha chiesto le 10:30\, confermate da Gordana il 12
+ /11. Subito dopo\, alle 11:00\, Kolašin allo stesso stand. Durata 25 min.
+ \nScheda: schede-clienti/C054-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × HOTEL GROUP BUDVANSKA RIVIJERA (Gordana Andrijasev
+ ic)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A012@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T140000
+DTEND;TZID=Europe/Warsaw:20261120T143000
+SUMMARY:Tripulse × MONTENEGRO ADVENTURE (Elsan Sabanovic)
+LOCATION:Stand 23 (Montenegro) · sala Starzyńskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C055 · MONTENEGRO ADVENTURE\nReferente: Elsan Sabano
+ vic\nTipo: in fiera\nObiettivo: Presentare Tripulse come rete e canale ver
+ so i viaggiatori\, capire che tour ed esperienze vendono e a quali mercati
+ \, proporre di inserire le loro esperienze e il ruolo Ambassador con versi
+ one white label\; uscire con un passo successivo.\nDa portare: Brochure A0
+ 12\, guida completa EN (cap. tour operator)\, biglietti da visita\, telefo
+ no con app/mockup (sezione Outdoor)\nOrigine: Mail di Elsan Sabanovic (Sal
+ es & Marketing)\, 12/11\nNote: Orario proposto da loro\, confermato da Ale
+ ssandro il 12/11. Arrivi da Regione di Creta (13:30\, livello 1\, se confe
+ rmata): chiudere Creta alle 13:55. Durata stimata 30 min.\nScheda: schede-
+ clienti/C055-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × MONTENEGRO ADVENTURE (Elsan Sabanovic)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A013@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T170000
+DTEND;TZID=Europe/Warsaw:20261119T173000
+SUMMARY:Tripulse × GLOBTEL GmbH (Tom Lenda)
+LOCATION:Stand 18 LUMISIM · sala Broniewskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C056 · GLOBTEL GmbH\nReferente: Tom Lenda\nTipo: in 
+ fiera\nObiettivo: Esplorare l'integrazione dei servizi Globtel (telecomuni
+ cazioni\, eSIM per viaggiatori) con triPulse: capire cosa offrono e in qua
+ li paesi\, proporre la presenza come partner (servizi utili consigliati da
+  Laura al momento giusto) e il ruolo Ambassador\; uscire con un passo succ
+ essivo.\nDa portare: Brochure A013\, guida completa EN\, biglietti da visi
+ ta\, telefono con app/mockup (servizi utili)\nOrigine: Mail di Tom Lenda (
+ CEO)\, 12/11\; conferma del 13/11\nNote: Tom aveva tutto il giovedì liber
+ o\; Alessandro ha proposto le 16:30\, Tom il 13/11 ha chiesto e confermato
+  le 17:00 allo stand Lumisim. Arrivi da ElSole (stand 33 Trojki\, liv. 1\,
+  fino alle 16:00). Lo stand 18 è accanto allo stand 4 All Inclusive. Dura
+ ta stimata 30 min. Orario di chiusura della fiera da verificare.\nScheda: 
+ schede-clienti/C056-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × GLOBTEL GmbH (Tom Lenda)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A014@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T121500
+DTEND;TZID=Europe/Warsaw:20261120T124500
+SUMMARY:Tripulse × POZNAŃ TOURISM ORGANISATION (Joanna Gonia-Kołodziejc
+ zyk)
+LOCATION:Stand 36 (Polonia) · sala Trojki · livello 1 · PKiN
+DESCRIPTION:Cliente: C057 · POZNAŃ TOURISM ORGANISATION\nReferente: Joan
+ na Gonia-Kołodziejczyk\nTipo: in fiera\nObiettivo: Presentare Tripulse\, 
+ proporre il check-up AI gratuito di Poznań\, coinvolgere la rete dei soci
+  (comuni e operatori)\, capire chi decide e fissare il passo successivo.\n
+ Da portare: Brochure A014\, check-up DMO EN\, guida completa EN (PDF)\, bi
+ glietti da visita\, telefono con app/mockup\nOrigine: Mail di Joanna Gonia
+ -Kołodziejczyk\, 13/11\nNote: Alessandro ha proposto 12:15\, 15:00 o 16:0
+ 0\; Joanna ha scelto le 12:15 al loro stand il 13/11. Subito dopo Łódź 
+ (11:30-12:00\, stand 42 Ratuszowa\, stesso livello). Durata stimata 30 min
+ .\nScheda: schede-clienti/C057-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × POZNAŃ TOURISM ORGANISATION (Joanna Gonia-Kołodz
+ iejczyk)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A015@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261119T140000
+DTEND;TZID=Europe/Warsaw:20261119T142000
+SUMMARY:[da confermare] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena Bob
+ eva)
+LOCATION:Stand 22-23 (Bulgaria) · sala Marmurowa · livello 1 · PKiN
+DESCRIPTION:Cliente: C058 · TOUCHMENU (TouchMenu Ltd)\nReferente: Plamena
+  Bobeva\nTipo: in fiera\nObiettivo: Presentare la proposta di partnership 
+ (Ambassador con QR per hotel\, hotel outlet come triPARTNER\, integrazione
+  in 3 passi\, pilota con 1-2 hotel)\, capire dove sono i loro hotel e come
+  risponde oggi il loro concierge\; uscire con la videochiamata di 30 minut
+ i fissata.\nDa portare: Proposta di partnership Tripulse × TouchMenu (PDF
+ \, 8 pagine)\, brochure A015\, biglietti da visita\, telefono con app/mock
+ up (dove mangiare\, servizi utili)\nOrigine: Mail di Plamena Bobeva (Direc
+ tor of Business Development)\, 16/11\nNote: Plamena non ha indicato un ora
+ rio: invita a passare allo stand. Orario proposto da Alessandro nel primo 
+ buco libero di giovedì (dopo Hotel Princess 13:00-13:30 al liv. 2\, prima
+  di Nowa Turystyka 14:30 al Main Hall liv. 1). Se non conferma\, passare c
+ omunque allo stand bulgaro\, anche durante Seve (12:00) e Varna (12:30). D
+ urata stimata 20 min.\nScheda: schede-clienti/C058-*.md
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:[da confermare] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena
+  Bobeva)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A016@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261120T150000
+DTEND;TZID=Europe/Warsaw:20261120T153000
+SUMMARY:[da confermare] Tripulse × HERTZ LET'S GO! (Hertz Poland) (Jacek 
+ Sosnowski)
+LOCATION:Stand 20 HERTZ · sala Broniewskiego · livello 2 · PKiN
+DESCRIPTION:Cliente: C059 · HERTZ LET'S GO! (Hertz Poland)\nReferente: Ja
+ cek Sosnowski\nTipo: in fiera\nObiettivo: Rispondere alla domanda di Kasia
+  (c'è business per Hertz in Polonia?): presentare triPulse come canale ve
+ rso i viaggiatori\, non come agenzia\; presentare la proposta di partnersh
+ ip (Hertz Ambassador con QR per ogni sede\, Hertz come partner mobilità c
+ onsigliato al momento giusto\, integrazione in 3 passi\, pilota in Polonia
+  poi estensione globale)\; capire chi decide (Polonia o gruppo) e uscire c
+ on la videochiamata fissata.\nDa portare: Proposta di partnership Tripulse
+  × Hertz (PDF\, 7 pagine)\, brochure A016\, guida completa EN\, biglietti
+  da visita\, telefono con app/mockup (trasporti\, servizi utili)\nOrigine:
+  Mail di Jacek Sosnowski\, 16/11 (richiesta girata da Katarzyna Okraszewsk
+ a\, Hertz GSA\, il 10/11)\nNote: Jacek accetta venerdì 20/11 e chiede l'o
+ rario. Alessandro propone le 15:00 allo stand Hertz (bozza mail/C059-hertz
+ -risposta-en.txt): primo buco libero dopo Montenegro Adventure (14:00-14:3
+ 0\, stand 23\, stesso livello 2). Alternativa se non va: 10:00\, prima di 
+ Budvanska Rivijera (10:30). Lo stand 20 è nella stessa sala dello stand 4
+  All Inclusive. Durata stimata 30 min.\nScheda: schede-clienti/C059-*.md
+STATUS:TENTATIVE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:[da confermare] Tripulse × HERTZ LET'S GO! (Hertz Poland) (Ja
+ cek Sosnowski)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A017@tripulse
+DTSTAMP:20261116T152219Z
+DTSTART;TZID=Europe/Warsaw:20261118T090000
+DTEND;TZID=Europe/Warsaw:20261118T100000
+SUMMARY:Tripulse × WARSAW CONVENTION BUREAU (Filip Płodzień · Mateusz 
+ Czerwiński (Prezes))
+LOCATION:Hotel PURO Warszawa Stare Miasto · ul. Canaletta 4 · Warszawa (
+ fuori fiera)
+DESCRIPTION:Cliente: C060 · WARSAW CONVENTION BUREAU\nReferente: Filip P
+ łodzień · Mateusz Czerwiński (Prezes)\nTipo: fuori fiera\nObiettivo: P
+ resentare triPulse all'ente turistico di Varsavia (leisure e MICE): visibi
+ lità della città nelle risposte delle AI\, eventi e congressi citati da 
+ Laura con la fonte ufficiale\, rete di partner locali\; proporre il check-
+ up AI gratuito di Varsavia\, c'è il Presidente: puntare a un accordo di p
+ rincipio sul check-up e sul passo successivo.\nDa portare: Brochure\, chec
+ k-up DMO EN\, guida completa EN (PDF)\, biglietti da visita\, telefono con
+  app/mockup (eventi\, mappa\, cosa fare adesso)\nOrigine: Mail di Filip P
+ łodzień (Director of Leisure & MICE Marketing)\, 16/11\; anticipo alle 9
+ :00 comunicato da Magdalena (organizzazione lato triPulse) il 16/11\, conf
+ ermato da Filip\nNote: Mercoledì 18/11\, il giorno prima della fiera\, al
+ l'hotel PURO vicino alla Città Vecchia (circa 2 km dal PKiN). Anticipato 
+ dalle 10:00 alle 9:00 perché partecipa anche il Presidente (Prezes) Mateu
+ sz Czerwiński\; Filip ha confermato. Con loro la collega Dominika. Incont
+ ro organizzato da Magdalena (lato triPulse). Orario di fine non indicato: 
+ durata stimata 60 min.\nScheda: schede-clienti/C060-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × WARSAW CONVENTION BUREAU (Filip Płodzień · Mate
+ usz Czerwiński (Prezes))
+END:VALARM
+END:VEVENT
+END:VCALENDAR
