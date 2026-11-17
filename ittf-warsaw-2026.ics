@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ittf2026-giorno1@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-giorno2@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-giorno3@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 TRANSP:TRANSPARENT
@@ -59,9 +59,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A001@tripulse
-DTSTAMP:20261117T082826Z
-DTSTART;TZID=Europe/Warsaw:20261120T113000
-DTEND;TZID=Europe/Warsaw:20261120T120000
+DTSTAMP:20261117T083010Z
+DTSTART;TZID=Europe/Warsaw:20261120T160000
+DTEND;TZID=Europe/Warsaw:20261120T163000
 SUMMARY:Tripulse × ŁÓDŹ TOURISM ORGANIZATION (Julia Lessman)
 LOCATION:Stand 42 · sala Ratuszowa · livello 1 · PKiN
 DESCRIPTION:Cliente: C044 · ŁÓDŹ TOURISM ORGANIZATION\nReferente: Juli
@@ -70,7 +70,10 @@ DESCRIPTION:Cliente: C044 · ŁÓDŹ TOURISM ORGANIZATION\nReferente: Juli
  vo (call o check-up).\nDa portare: Check-up DMO EN\, guida completa EN (PD
  F)\, biglietti da visita\, telefono con app/mockup\nOrigine: Mail di Julia
   Lessman\, risposta del 10/11\nNote: Orario proposto da Alessandro\, confe
- rmato. Durata stimata 30 min.\nScheda: schede-clienti/C044-*.md
+ rmato per le 11:30\; il 17/11 spostato alle 16:00 per fare posto a Mazowie
+ cka (A018)\, nuovo orario già confermato con Łódź. Arrivi da Hertz (15
+ :00-15:30\, stand 20\, livello 2). Durata stimata 30 min.\nScheda: schede-
+ clienti/C044-*.md
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -80,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A002@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T123000
 DTEND;TZID=Europe/Warsaw:20261119T130000
 SUMMARY:Tripulse × VARNA MUNICIPALITY (Stanislava Marinova)
@@ -102,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A003@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T153000
 DTEND;TZID=Europe/Warsaw:20261119T160000
 SUMMARY:Tripulse × ELSOLE TOURS (Beata Chavez Mydlowska)
@@ -125,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A004@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T113000
 DTEND;TZID=Europe/Warsaw:20261119T115000
 SUMMARY:[da confermare] Tripulse × LUCEA DMC
@@ -146,7 +149,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A005@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T143000
 DTEND;TZID=Europe/Warsaw:20261119T150000
 SUMMARY:[da confermare] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
@@ -167,7 +170,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A006@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T130000
 DTEND;TZID=Europe/Warsaw:20261119T133000
 SUMMARY:Tripulse × HOTEL PRINCESS (Bar) (Ljiljana Lukšić)
@@ -189,7 +192,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A007@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T120000
 DTEND;TZID=Europe/Warsaw:20261119T122000
 SUMMARY:Tripulse × SEVE TRAVEL OOD (Veselin Petrov · Swetlana Wojcik)
@@ -212,7 +215,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A008@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T110000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Tripulse × TURISTIČKA ORGANIZACIJA KOLAŠIN (Ivana Bulatović)
@@ -235,7 +238,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A009@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T103000
 DTEND;TZID=Europe/Warsaw:20261119T110000
 SUMMARY:Tripulse × ABSOLUTE GUIDES DMC (Alexandru Ganușceac)
@@ -261,7 +264,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A010@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T135500
 SUMMARY:[da confermare] Tripulse × REGION OF CRETE (Smaro Dadinidou)
@@ -285,7 +288,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A011@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T103000
 DTEND;TZID=Europe/Warsaw:20261120T105500
 SUMMARY:Tripulse × HOTEL GROUP BUDVANSKA RIVIJERA (Gordana Andrijasevic)
@@ -311,7 +314,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A012@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T140000
 DTEND;TZID=Europe/Warsaw:20261120T143000
 SUMMARY:Tripulse × MONTENEGRO ADVENTURE (Elsan Sabanovic)
@@ -336,7 +339,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A013@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T170000
 DTEND;TZID=Europe/Warsaw:20261119T173000
 SUMMARY:Tripulse × GLOBTEL GmbH (Tom Lenda)
@@ -363,7 +366,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A014@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T121500
 DTEND;TZID=Europe/Warsaw:20261120T124500
 SUMMARY:Tripulse × POZNAŃ TOURISM ORGANISATION (Joanna Gonia-Kołodziejc
@@ -389,7 +392,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A015@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261119T140000
 DTEND;TZID=Europe/Warsaw:20261119T142000
 SUMMARY:[da confermare] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena Bob
@@ -419,7 +422,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A016@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T150000
 DTEND;TZID=Europe/Warsaw:20261120T153000
 SUMMARY:[da confermare] Tripulse × HERTZ LET'S GO! (Hertz Poland) (Jacek 
@@ -452,7 +455,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A017@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261118T090000
 DTEND;TZID=Europe/Warsaw:20261118T100000
 SUMMARY:Tripulse × WARSAW CONVENTION BUREAU (Filip Płodzień · Mateusz 
@@ -486,28 +489,32 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A018@tripulse
-DTSTAMP:20261117T082826Z
+DTSTAMP:20261117T083010Z
 DTSTART;TZID=Europe/Warsaw:20261120T113000
 DTEND;TZID=Europe/Warsaw:20261120T120000
-SUMMARY:Tripulse × MAZOVIA REGIONAL TOURIST ORGANIZATION
+SUMMARY:Tripulse × MAZOVIA REGIONAL TOURIST ORGANIZATION (contatto di Vio
+ la (All Inclusive))
 LOCATION:Stand 35 (Mazowsze) · sala Trojki · livello 1 · PKiN
-DESCRIPTION:Cliente: C031 · MAZOVIA REGIONAL TOURIST ORGANIZATION\nTipo: 
- in fiera\nObiettivo: Presentare triPulse all'organizzazione turistica dell
- a Masovia (la regione di Varsavia): visibilità della regione nelle rispos
- te delle AI\, eventi e attrazioni citati da Laura con la fonte ufficiale\,
-  rete di partner locali\; proporre il check-up AI gratuito\, capire chi de
- cide e fissare il passo successivo.\nDa portare: Brochure\, check-up DMO E
- N\, guida completa EN (PDF)\, biglietti da visita\, telefono con app/mocku
- p\nOrigine: Appuntamento comunicato da Alessandro il 17/11 (priorità su t
- utto)\nNote: Priorità massima per Alessandro. Alle 11:30 c'era già Łód
- ź (stand 42 Ratuszowa\, confermato): riorganizzazione da decidere. Subito
-  dopo\, alle 12:15\, Poznań allo stand 36 accanto. Durata stimata 30 min.
- \nScheda: schede-clienti/C031-*.md
+DESCRIPTION:Cliente: C031 · MAZOVIA REGIONAL TOURIST ORGANIZATION\nRefere
+ nte: contatto di Viola (All Inclusive)\nTipo: in fiera\nObiettivo: Present
+ are triPulse all'organizzazione turistica della Masovia (la regione di Var
+ savia): visibilità della regione nelle risposte delle AI\, eventi e attra
+ zioni citati da Laura con la fonte ufficiale\, rete di partner locali\; pr
+ oporre il check-up AI gratuito\, capire chi decide e fissare il passo succ
+ essivo.\nDa portare: Brochure\, check-up DMO EN\, guida completa EN (PDF)\
+ , biglietti da visita\, telefono con app/mockup\nOrigine: Appuntamento com
+ unicato da Alessandro il 17/11 (priorità su tutto)\; contatto diretto di 
+ Viola (All Inclusive Magazine)\nNote: Priorità massima per Alessandro. Co
+ ntatto diretto di Viola (All Inclusive): nessun nome di referente. Łódź
+ \, che era alle 11:30\, è stata spostata alle 16:00. Subito dopo\, alle 1
+ 2:15\, Poznań allo stand 36 accanto. Durata stimata 30 min.\nScheda: sche
+ de-clienti/C031-*.md
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
-DESCRIPTION:Tripulse × MAZOVIA REGIONAL TOURIST ORGANIZATION
+DESCRIPTION:Tripulse × MAZOVIA REGIONAL TOURIST ORGANIZATION (contatto di
+  Viola (All Inclusive))
 END:VALARM
 END:VEVENT
 END:VCALENDAR
