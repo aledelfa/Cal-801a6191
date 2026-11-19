@@ -26,7 +26,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ittf2026-giorno1@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -37,7 +37,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-giorno2@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 TRANSP:TRANSPARENT
@@ -48,7 +48,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-giorno3@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A001@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T160000
 DTEND;TZID=Europe/Warsaw:20261120T163000
 SUMMARY:Tripulse × ŁÓDŹ TOURISM ORGANIZATION (Julia Lessman)
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A002@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T123000
 DTEND;TZID=Europe/Warsaw:20261119T130000
 SUMMARY:Tripulse × VARNA MUNICIPALITY (Stanislava Marinova)
@@ -105,7 +105,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A003@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T153000
 DTEND;TZID=Europe/Warsaw:20261119T160000
 SUMMARY:Tripulse × ELSOLE TOURS (Beata Chavez Mydlowska)
@@ -128,7 +128,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A004@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T113000
 DTEND;TZID=Europe/Warsaw:20261119T115000
 SUMMARY:[da confermare] Tripulse × LUCEA DMC
@@ -149,10 +149,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A005@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T143000
 DTEND;TZID=Europe/Warsaw:20261119T150000
-SUMMARY:[da confermare] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
+SUMMARY:[annullato] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
 LOCATION:Stand 2 · Main Hall · livello 1 · PKiN
 DESCRIPTION:Cliente: C020 · NOWA TURYSTYKA\nReferente: Mira Włodarczyk\n
  Tipo: in fiera\nObiettivo: Trasformare la proposta di pubblicità in media
@@ -160,17 +160,19 @@ DESCRIPTION:Cliente: C020 · NOWA TURYSTYKA\nReferente: Mira Włodarczyk\n
  ni\; ottenere media kit e numeri di audience.\nDa portare: Programma media
   partner (PDF)\, guida completa EN\, biglietti da visita\nOrigine: Mail di
   Mira Włodarczyk\, risposta del 10/11\nNote: Proposto da Alessandro\, non
-  ancora confermato.\nScheda: schede-clienti/C020-*.md
-STATUS:TENTATIVE
+  ancora confermato. 19/11: ANNULLATO da Alessandro (lead non interessante)
+ . Al suo posto\, alle 14:15\, l'ente turistico di Bar (A021).\nScheda: sch
+ ede-clienti/C020-*.md
+STATUS:CANCELLED
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
-DESCRIPTION:[da confermare] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
+DESCRIPTION:[annullato] Tripulse × NOWA TURYSTYKA (Mira Włodarczyk)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A006@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T130000
 DTEND;TZID=Europe/Warsaw:20261119T133000
 SUMMARY:Tripulse × HOTEL PRINCESS (Bar) (Ljiljana Lukšić)
@@ -182,7 +184,9 @@ DESCRIPTION:Cliente: C049 · HOTEL PRINCESS (Bar)\nReferente: Ljiljana Luk
  iende EN\, biglietti da visita\, telefono con app/mockup\nOrigine: Mail di
   Ljiljana Lukšić\, risposta del 10/11\nNote: Orario proposto da lei\, co
  nfermato da Alessandro. In caso di ritardo: +382 69 377 545. Arriva da Var
- na (livello 1) che finisce alle 13:00.\nScheda: schede-clienti/C049-*.md
+ na (livello 1) che finisce alle 13:00. Il 19/11 Ljiljana ha passato il con
+ tatto di Milana\, responsabile dell'ente turistico di Bar: incontro A021 a
+ lle 14:15.\nScheda: schede-clienti/C049-*.md
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -192,7 +196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A007@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T120000
 DTEND;TZID=Europe/Warsaw:20261119T122000
 SUMMARY:Tripulse × SEVE TRAVEL OOD (Veselin Petrov · Swetlana Wojcik)
@@ -215,7 +219,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A008@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T110000
 DTEND;TZID=Europe/Warsaw:20261120T112500
 SUMMARY:Tripulse × TURISTIČKA ORGANIZACIJA KOLAŠIN (Ivana Bulatović)
@@ -238,7 +242,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A009@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T103000
 DTEND;TZID=Europe/Warsaw:20261119T110000
 SUMMARY:Tripulse × ABSOLUTE GUIDES DMC (Alexandru Ganușceac)
@@ -264,7 +268,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A010@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T133000
 DTEND;TZID=Europe/Warsaw:20261120T135500
 SUMMARY:[da confermare] Tripulse × REGION OF CRETE (Smaro Dadinidou)
@@ -288,7 +292,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A011@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T103000
 DTEND;TZID=Europe/Warsaw:20261120T105500
 SUMMARY:Tripulse × HOTEL GROUP BUDVANSKA RIVIJERA (Gordana Andrijasevic)
@@ -314,7 +318,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A012@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T140000
 DTEND;TZID=Europe/Warsaw:20261120T143000
 SUMMARY:Tripulse × MONTENEGRO ADVENTURE (Elsan Sabanovic)
@@ -339,7 +343,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A013@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T170000
 DTEND;TZID=Europe/Warsaw:20261119T173000
 SUMMARY:Tripulse × GLOBTEL GmbH (Tom Lenda)
@@ -366,7 +370,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A014@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T121500
 DTEND;TZID=Europe/Warsaw:20261120T124500
 SUMMARY:Tripulse × POZNAŃ TOURISM ORGANISATION (Joanna Gonia-Kołodziejc
@@ -392,11 +396,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A015@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T140000
 DTEND;TZID=Europe/Warsaw:20261119T142000
-SUMMARY:[da confermare] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena Bob
- eva)
+SUMMARY:[annullato] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena Bobeva)
 LOCATION:Stand 22-23 (Bulgaria) · sala Marmurowa · livello 1 · PKiN
 DESCRIPTION:Cliente: C058 · TOUCHMENU (TouchMenu Ltd)\nReferente: Plamena
   Bobeva\nTipo: in fiera\nObiettivo: Presentare la proposta di partnership 
@@ -411,18 +414,20 @@ DESCRIPTION:Cliente: C058 · TOUCHMENU (TouchMenu Ltd)\nReferente: Plamena
  buco libero di giovedì (dopo Hotel Princess 13:00-13:30 al liv. 2\, prima
   di Nowa Turystyka 14:30 al Main Hall liv. 1). Se non conferma\, passare c
  omunque allo stand bulgaro\, anche durante Seve (12:00) e Varna (12:30). D
- urata stimata 20 min.\nScheda: schede-clienti/C058-*.md
-STATUS:TENTATIVE
+ urata stimata 20 min. 19/11: ANNULLATO da Alessandro (lead non interessant
+ e). Al suo posto\, alle 14:15\, l'ente turistico di Bar (A021).\nScheda: s
+ chede-clienti/C058-*.md
+STATUS:CANCELLED
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-PT15M
-DESCRIPTION:[da confermare] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena
-  Bobeva)
+DESCRIPTION:[annullato] Tripulse × TOUCHMENU (TouchMenu Ltd) (Plamena Bob
+ eva)
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A016@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T150000
 DTEND;TZID=Europe/Warsaw:20261120T153000
 SUMMARY:[da confermare] Tripulse × HERTZ LET'S GO! (Hertz Poland) (Jacek 
@@ -455,7 +460,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A017@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261118T090000
 DTEND;TZID=Europe/Warsaw:20261118T100000
 SUMMARY:Tripulse × WARSAW CONVENTION BUREAU (Filip Płodzień · Mateusz 
@@ -489,7 +494,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A018@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261120T113000
 DTEND;TZID=Europe/Warsaw:20261120T120000
 SUMMARY:Tripulse × MAZOVIA REGIONAL TOURIST ORGANIZATION (contatto di Vio
@@ -519,7 +524,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A019@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T100000
 DTEND;TZID=Europe/Warsaw:20261119T102000
 SUMMARY:Tripulse × SEASIDE COLLECTION HOTELS (Seaside Hotels S.L.) (Ana F
@@ -548,7 +553,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ittf2026-A020@tripulse
-DTSTAMP:20261119T102022Z
+DTSTAMP:20261119T130430Z
 DTSTART;TZID=Europe/Warsaw:20261119T160000
 DTEND;TZID=Europe/Warsaw:20261119T163000
 SUMMARY:Tripulse × TURISTIČKA ORGANIZACIJA OPŠTINE BUDVA (Martina Kulja
@@ -575,6 +580,41 @@ ACTION:DISPLAY
 TRIGGER:-PT15M
 DESCRIPTION:Tripulse × TURISTIČKA ORGANIZACIJA OPŠTINE BUDVA (Martina K
  uljača)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ittf2026-A021@tripulse
+DTSTAMP:20261119T130430Z
+DTSTART;TZID=Europe/Warsaw:20261119T141500
+DTEND;TZID=Europe/Warsaw:20261119T144500
+SUMMARY:Tripulse × TURISTIČKA ORGANIZACIJA OPŠTINE BAR (Milana (respons
+ abile\; cognome da chiedere))
+LOCATION:Stand 23 (Montenegro) · sala Starzyńskiego · livello 2 · PKiN
+  (luogo da confermare)
+DESCRIPTION:Cliente: C063 · TURISTIČKA ORGANIZACIJA OPŠTINE BAR\nRefere
+ nte: Milana (responsabile\; cognome da chiedere)\nTipo: in fiera\nObiettiv
+ o: Presentare triPulse all'ente turistico di Bar\, su presentazione di Lji
+ ljana Lukšić (Hotel Princess): visibilità di Bar nelle risposte delle A
+ I\, eventi e attrazioni citati da Laura con la fonte ufficiale\, rete di p
+ artner locali partendo da Hotel Princess\; proporre il check-up AI gratuit
+ o di Bar\, capire chi decide e fissare il passo successivo. Accennare al p
+ ilota Montenegro (Budva oggi alle 16:00\, Kolašin e Budvanska domani).\nD
+ a portare: Brochure A021\, check-up DMO EN\, guida completa EN (PDF)\, big
+ lietti da visita\, telefono con app/mockup (eventi\, mappa\, stasera)\nOri
+ gine: Contatto di Milana passato da Ljiljana Lukšić (Hotel Princess\, A0
+ 06) il 19/11\; messaggio WhatsApp di presentazione di Alessandro\; conferm
+ a del 19/11 per oggi alle 14:15\nNote: Confermato oggi alle 14:15 via What
+ sApp. Luogo non indicato: probabile stand 23 Montenegro\, da confermare co
+ n Milana. TouchMenu (A015\, 14:00) e Nowa Turystyka (A005\, 14:30) annulla
+ ti da Alessandro il 19/11: nessun conflitto. Dopo\, ElSole alle 15:30 (sta
+ nd 33 Trojki\, liv. 1). Durata stimata 30 min.\nScheda: schede-clienti/C06
+ 3-*.md
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Tripulse × TURISTIČKA ORGANIZACIJA OPŠTINE BAR (Milana (res
+ ponsabile\; cognome da chiedere))
 END:VALARM
 END:VEVENT
 END:VCALENDAR
